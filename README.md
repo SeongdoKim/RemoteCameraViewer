@@ -1,5 +1,5 @@
 # RemoteCameraViewer
-This repository is a Linux application to receive image streaming from an Android smartphone, which is seen by the camera of the connected Android smartphone. This application is tested on Ubuntu 16.04 with OpenCV 2.4.11 version.
+This is a Linux application to receive image streaming from [my Android application](https://github.com/SeongdoKim/AndroidRemoteCamera), which is seen by the camera of the connected Android smartphone. This application is tested on Ubuntu 16.04 with OpenCV 2.4.11 version. If you wish to share what your smartphone is watching with your PC, this project will be a good starting point.
 
 # Prerequisites
 - Either OpenCV 2.X or OpenCV 3.X 
